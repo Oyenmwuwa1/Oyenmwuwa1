@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Oyenmwuwa Igiede (On-ya for short)
+### Hi there 👋, my name is Oyenmwuwa Igiede (you can also say On-ya)
 
 ![Banner](https://github.com/Oyenmwuwa1/OyenmwuwaIgiede/blob/main/github-header-image.png)
 
