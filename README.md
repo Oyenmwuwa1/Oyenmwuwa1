@@ -10,5 +10,5 @@ Skills: C++ / SwiftUI / JS / HTML / CSS
 - 🌱 I’m currently learning python 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oyenmwuwa-igiede)  
+[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://i.pngimg.me/thumb/f/720/m2i8Z5b1m2K9d3Z5.jpg)' alt='linkedin' height='40'>](https://www.linkedin.com/in/oyenmwuwa-igiede)  
 
